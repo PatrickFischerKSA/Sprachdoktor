@@ -12,6 +12,8 @@ Eine interaktive, datenschutzkonforme Lernlandschaft für Rechtschreibung, Zeich
 - Regelerklärung und Lösungsstrategie bei jeder Aufgabe
 - Fortschrittsanzeige und motivierende Lernserien
 - responsive Darstellung für Computer, Tablet und Smartphone
+- zufällige Aufgabenreihenfolge ohne Wiederholungen innerhalb einer Lernstation
+- Schaltfläche zum erneuten Mischen jeder 60er-Aufgabenfolge
 
 Alle Übungssätze wurden neu formuliert. Es werden keine personenbezogenen Daten oder Originalformulierungen aus Schülertexten veröffentlicht.
 
