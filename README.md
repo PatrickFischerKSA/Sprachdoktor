@@ -5,6 +5,8 @@ Eine interaktive, datenschutzkonforme Lernlandschaft für Rechtschreibung, Zeich
 ## Inhalt
 
 - 360 Übungen in sechs Lernstationen
+- abwechslungsreiche Formate: Reparatur, Lücke, Satzumbau, Fehlerdiagnose, Interpunktion und Mehrfachrevision
+- nur eine kleine Minderheit der Aufgaben ist Multiple Choice
 - drei Schwierigkeitsstufen
 - unmittelbares Feedback
 - Regelerklärung und Lösungsstrategie bei jeder Aufgabe
@@ -16,4 +18,3 @@ Alle Übungssätze wurden neu formuliert. Es werden keine personenbezogenen Date
 ## Nutzung
 
 Die Lernlandschaft läuft vollständig im Browser und benötigt weder Anmeldung noch Installation.
-
